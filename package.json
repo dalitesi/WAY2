@@ -1,0 +1,23 @@
+{
+  "name": "projeto-way2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.24.5",
+    "@babel/preset-env": "^7.24.5",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "jest-html-reporters": "^3.1.7",
+    "ts-jest": "^29.1.2"
+  },
+  "dependencies": {
+    "supertest": "^7.0.0"
+  }
+}
