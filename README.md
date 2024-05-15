@@ -20,7 +20,6 @@ Baixe o instalador:
 Através do site oficial do Node.js em https://nodejs.org/
 
 
-
 Bibliotecas do projeto:
 
 Baixar as bibiliotecas presentes no package-lock.json através da linha de comando, utilizando o comando: npm install
