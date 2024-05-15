@@ -31,7 +31,7 @@ Para configurar o projeto em sua máquina local, siga estas etapas:
 
 2. git clone https://github.com/dalitesi/WAY2
 
-3. Acesse o repositório através do terminal ou Vscode
+3. Acesse o repositório através do terminal
 
 4. Rode a linha de comando no terminal: npx jest
 
