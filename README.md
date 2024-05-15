@@ -1,4 +1,4 @@
-#### **Teste WAY2**
+# **Teste WAY2**
 
 Este é o repositório do teste WAY2. 
 Aqui você encontrará informações úteis sobre o projeto, como configurá-lo e utilizá-lo.
