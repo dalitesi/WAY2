@@ -17,7 +17,8 @@ Pré-requisitos:
 Node.js:
 
 Baixe o instalador:
-Através do site oficial do Node.js em https://nodejs.org/.
+Através do site oficial do Node.js em https://nodejs.org/
+
 
 
 Bibliotecas do projeto:
