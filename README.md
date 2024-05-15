@@ -1,12 +1,15 @@
-Teste WAY2
+### **Teste WAY2**
+
 Este é o repositório do teste WAY2. 
 Aqui você encontrará informações úteis sobre o projeto, como configurá-lo e utilizá-lo.
 
-Descrição:
-Este projeto realiza testes automatizados na API de venda, utilizando as seguintes tecnologias:
+## **Descrição:**
+Este projeto realiza testes automatizados na API de vendas, utilizando as seguintes tecnologias:
 
 - Javascript
 - Jest Framework
+
+## **Configuração**
 
 Pré-requisitos:
 
