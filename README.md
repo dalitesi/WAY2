@@ -1,4 +1,4 @@
-### **Teste WAY2**
+#### **Teste WAY2**
 
 Este é o repositório do teste WAY2. 
 Aqui você encontrará informações úteis sobre o projeto, como configurá-lo e utilizá-lo.
@@ -12,6 +12,7 @@ Este projeto realiza testes automatizados na API de vendas, utilizando as seguin
 ## **Configuração**
 
 Pré-requisitos:
+
 
 Node.js:
 Baixe o instalador:
